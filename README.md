@@ -38,7 +38,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></a>
   <img width="12" />
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></a>
   <img width="12" />
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">

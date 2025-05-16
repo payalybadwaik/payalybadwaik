@@ -6,13 +6,11 @@
 
 <h1 align="center">👋 Hello, I'm Payal Badwaik!</h1>
 
-###
-
 <h3 align="center">Tech Enthusiast and Problem Solver</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+# 👩‍💻  About Me
 
 ###
 
@@ -20,11 +18,15 @@
 
 ###
 
-<p align="left"> 🎯 <b>Future Goals</b><br>- To become a full-stack developer and contribute to impactful projects.</p>
+# 🎯 Future Goals
 
 ###
 
-<h3 align="left">🛠 Languages and tools :</h3>
+<p align="left">- To become a full-stack developer and contribute to impactful projects.</p>
+
+###
+
+# 💻 Tech Stack:
 
 ###
 
@@ -51,7 +53,14 @@
 
 ###
 
-<h3 align="left">🤝🏻 Connect with me :</h3>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=payalybadwaik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=payalybadwaik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=payalybadwaik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+###
+
+# 🤝🏻 Connect with me:
 
 ###
 
@@ -62,9 +71,8 @@
 <a href="https://www.geeksforgeeks.org/user/payalybadwaik21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="payalybadwaik" height="30" width="40" /></a>
 </p>
 
-
 ###
 
-
 [Payal Badwaik](https://github.com/payalybadwaik)
+
 ###
